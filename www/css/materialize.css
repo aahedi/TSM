@@ -4,11 +4,11 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 .materialize-red {
-  background-color: #cc0000 !important;
+  background-color: #00838F !important;
 }
 
 .materialize-red-text {
-  color: #cc0000 !important;
+  color: #00838F !important;
 }
 
 .materialize-red.lighten-5 {
@@ -1020,11 +1020,11 @@
 }
 
 .teal.lighten-1 {
-  background-color: #cc0000 !important;
+  background-color: #00838F !important;
 }
 
 .teal-text.text-lighten-1 {
-  color: #cc0000 !important;
+  color: #00838F !important;
 }
 
 .teal.darken-1 {
@@ -2084,11 +2084,11 @@
 }
 
 .grey.darken-1 {
-  background-color: #757575 !important;
+  background-color: #00838F !important;
 }
 
 .grey-text.text-darken-1 {
-  color: #757575 !important;
+  color: #00838F !important;
 }
 
 .grey.darken-2 {
@@ -2749,7 +2749,7 @@ video.responsive-video {
   text-align: center;
   vertical-align: top;
   height: 30px;
-  border: 1px solid #cc0000;
+  border: 1px solid #00838F;
   margin-left: 3px; 
 }
 
@@ -2759,7 +2759,7 @@ video.responsive-video {
   font-size: 1.2rem;
   padding: 0 10px;
   line-height: 30px;
-  color:#cc0000;
+  color:#00838F;
 }
 
 .pagination li.active a {
@@ -2767,7 +2767,7 @@ video.responsive-video {
 }
 
 .pagination li.active {
-  background-color: #cc0000;
+  background-color: #00838F;
 }
 
 .pagination li.disabled a {
@@ -3145,7 +3145,7 @@ td, th {
 }
 
 .collection .collection-item.active {
-  background-color: #cc0000;
+  background-color: #00838F;
   color: #eafaf9;
 }
 
@@ -3156,7 +3156,7 @@ td, th {
 .collection a.collection-item {
   display: block;
   transition: .25s;
-  color: #cc0000;
+  color: #00838F;
 }
 
 .collection a.collection-item:not(.active):hover {
@@ -3179,7 +3179,7 @@ td, th {
 
 .secondary-content {
   float: right;
-  color: #cc0000;
+  color: #00838F;
 }
 
 .collapsible .collection {
@@ -3193,7 +3193,7 @@ span.badge {
   text-align: center;
   font-size: 1rem;
   line-height: inherit;
-  color: #757575;
+  color: #00838F;
   position: absolute;
   right: 15px;
   box-sizing: border-box;
@@ -3203,7 +3203,7 @@ span.badge.new {
   font-weight: 300;
   font-size: 0.8rem;
   color: #fff;
-  background-color: #cc0000;
+  background-color: #00838F;
   border-radius: 2px;
 }
 
@@ -3252,12 +3252,12 @@ nav ul a span.badge {
   top: 0;
   left: 0;
   bottom: 0;
-  background-color: #cc0000;
+  background-color: #00838F;
   transition: width .3s linear;
 }
 
 .progress .indeterminate {
-  background-color: #cc0000;
+  background-color: #00838F;
 }
 
 .progress .indeterminate:before {
@@ -4071,7 +4071,7 @@ input[type=range] + .thumb {
 }
 
 nav {
-  color: #cc0000;
+  color: #00838F;
   background-color: #fff ;
   width: 100%;
   height: 56px;
@@ -4177,7 +4177,7 @@ nav ul li.active {
 nav ul a {
   transition: background-color .3s;
   font-size: 12rem;
-  color: #cc0000;
+  color: #00838F;
   display: block;
   padding: 0 15px;
   cursor: pointer;
@@ -4839,11 +4839,11 @@ small {
 }
 
 .tabs .tab a:hover {
-  color: #cc0000;
+  color: #00838F;
 }
 
 .tabs .tab.disabled a {
-  color: #cc0000;
+  color: #00838F;
   cursor: default;
 }
 
@@ -4851,7 +4851,7 @@ small {
   position: absolute;
   bottom: 0;
   height: 2px;
-  background-color: #cc0000;
+  background-color: #00838F;
   will-change: left, right;
 }
 
@@ -4959,7 +4959,7 @@ small {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #cc0000;
+  background-color: #00838F;
   text-align: center;
   letter-spacing: .5px;
   transition: .2s ease-out;
@@ -4967,7 +4967,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #cc0000;
+  background-color: #00838F;
 }
 
 .btn-floating {
@@ -4996,7 +4996,7 @@ small {
 }
 
 .btn-floating:hover {
-  background-color: #cc0000;
+  background-color: #00838F;
 }
 
 .btn-floating:before {
@@ -5142,7 +5142,7 @@ button.btn-floating {
 
 .dropdown-content li > a, .dropdown-content li > span {
   font-size: 16px;
-  color: #cc0000;
+  color: #00838F;
   display: block;
   line-height: 22px;
   padding: 14px 16px;
@@ -5420,7 +5420,7 @@ button.btn-floating {
   padding: 0;
 }
 .side-nav{
-    border-left:5px solid #cc0000;
+    border-left:5px solid #00838F;
 }
 .side-nav .collapsible-header,
 .side-nav.fixed .collapsible-header {
@@ -5510,8 +5510,8 @@ button.btn-floating {
 }
 
 .chips.focus {
-  border-bottom: 1px solid #cc0000;
-  box-shadow: 0 1px 0 0 #cc0000;
+  border-bottom: 1px solid #00838F;
+  box-shadow: 0 1px 0 0 #00838F;
 }
 
 .chips:hover {
@@ -5519,7 +5519,7 @@ button.btn-floating {
 }
 
 .chips .chip.selected {
-  background-color: #cc0000;
+  background-color: #00838F;
   color: #fff;
 }
 
@@ -5724,8 +5724,8 @@ input[type=tel]:focus:not([readonly]),
 input[type=number]:focus:not([readonly]),
 input[type=search]:focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-  border-bottom: 1px solid #cc0000;
-  box-shadow: 0 1px 0 0 #cc0000;
+  border-bottom: 1px solid #00838F;
+  box-shadow: 0 1px 0 0 #00838F;
 }
 
 input:not([type]):focus:not([readonly]) + label,
@@ -5741,7 +5741,7 @@ input[type=tel]:focus:not([readonly]) + label,
 input[type=number]:focus:not([readonly]) + label,
 input[type=search]:focus:not([readonly]) + label,
 textarea.materialize-textarea:focus:not([readonly]) + label {
-  color: #cc0000;
+  color: #00838F;
 }
 
 input:not([type]).valid, input:not([type]):focus.valid,
@@ -5939,7 +5939,7 @@ textarea.materialize-textarea + label:after {
 }
 
 .input-field .prefix.active {
-  color: #cc0000;
+  color: #00838F;
 }
 
 .input-field .prefix ~ input,
@@ -6118,12 +6118,12 @@ textarea.materialize-textarea {
 [type="radio"]:checked + label:after,
 [type="radio"].with-gap:checked + label:before,
 [type="radio"].with-gap:checked + label:after {
-  border: 2px solid #cc0000;
+  border: 2px solid #00838F;
 }
 
 [type="radio"]:checked + label:after,
 [type="radio"].with-gap:checked + label:after {
-  background-color: #cc0000;
+  background-color: #00838F;
   z-index: 0;
 }
 
@@ -6257,8 +6257,8 @@ form p:last-child {
   height: 22px;
   border-top: 2px solid transparent;
   border-left: 2px solid transparent;
-  border-right: 2px solid #cc0000;
-  border-bottom: 2px solid #cc0000;
+  border-right: 2px solid #00838F;
+  border-bottom: 2px solid #00838F;
   -webkit-transform: rotate(40deg);
           transform: rotate(40deg);
   -webkit-backface-visibility: hidden;
@@ -6280,7 +6280,7 @@ form p:last-child {
   height: 22px;
   border-top: none;
   border-left: none;
-  border-right: 2px solid #cc0000;
+  border-right: 2px solid #00838F;
   border-bottom: none;
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg);
@@ -6349,8 +6349,8 @@ form p:last-child {
   top: 0;
   width: 20px;
   height: 20px;
-  border: 2px solid #cc0000;
-  background-color: #cc0000;
+  border: 2px solid #00838F;
+  background-color: #00838F;
   z-index: 0;
 }
 
@@ -6362,8 +6362,8 @@ form p:last-child {
 
 [type="checkbox"].filled-in.tabbed:checked:focus + label:after {
   border-radius: 2px;
-  background-color: #cc0000;
-  border-color: #cc0000;
+  background-color: #00838F;
+  border-color: #00838F;
 }
 
 [type="checkbox"].filled-in:disabled:not(:checked) + label:before {
@@ -6410,7 +6410,7 @@ form p:last-child {
 }
 
 .switch label input[type=checkbox]:checked + .lever:after {
-  background-color: #cc0000;
+  background-color: #00838F;
   left: 24px;
 }
 
@@ -6653,7 +6653,7 @@ input[type=range] + .thumb {
   height: 0;
   width: 0;
   border-radius: 50%;
-  background-color: #cc0000;
+  background-color: #00838F;
   top: 10px;
   margin-left: -6px;
   -webkit-transform-origin: 50% 50%;
@@ -6666,7 +6666,7 @@ input[type=range] + .thumb .value {
   display: block;
   width: 30px;
   text-align: center;
-  color: #cc0000;
+  color: #00838F;
   font-size: 0;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
@@ -6699,7 +6699,7 @@ input[type=range]::-webkit-slider-thumb {
   height: 14px;
   width: 14px;
   border-radius: 50%;
-  background-color: #cc0000;
+  background-color: #00838F;
   -webkit-transform-origin: 50% 50%;
           transform-origin: 50% 50%;
   margin: -5px 0 0 0;
@@ -6727,7 +6727,7 @@ input[type=range]::-moz-range-thumb {
   height: 14px;
   width: 14px;
   border-radius: 50%;
-  background: #cc0000;
+  background: #00838F;
   margin-top: -5px;
 }
 
@@ -6762,7 +6762,7 @@ input[type=range]::-ms-thumb {
   height: 14px;
   width: 14px;
   border-radius: 50%;
-  background: #cc0000;
+  background: #00838F;
 }
 
 input[type=range]:focus::-ms-fill-lower {
@@ -6787,7 +6787,7 @@ input[type=range]:focus::-ms-fill-upper {
 .table-of-contents a {
   display: inline-block;
   font-weight: 300;
-  color: #757575;
+  color: #00838F;
   padding-left: 20px;
   height: 1.5rem;
   line-height: 1.5rem;
@@ -6854,7 +6854,7 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .side-nav a {
-  color: #cc0000;
+  color: #00838F;
   display: block;
   font-size: 14px;
   font-weight: 500;
@@ -6884,7 +6884,7 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .side-nav a.btn-floating:hover {
-  background-color: #cc0000;
+  background-color: #00838F;
 }
 
 .side-nav li > a > i,
@@ -7094,7 +7094,7 @@ input[type=range]:focus::-ms-fill-upper {
   width: 100%;
   height: 100%;
   opacity: 0;
-  border-color: #cc0000;
+  border-color: #00838F;
 }
 
 .spinner-blue,
@@ -8203,7 +8203,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 .picker__date-display {
   text-align: center;
-  background-color: #cc0000;
+  background-color: #00838F;
   color: #fff;
   padding-bottom: 15px;
   font-weight: 300;
@@ -8266,7 +8266,7 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .picker__day.picker__day--today {
-  color: #cc0000;
+  color: #00838F;
 }
 
 .picker__day.picker__day--today.picker__day--selected {
@@ -8283,7 +8283,7 @@ input[type=range]:focus::-ms-fill-upper {
   border-radius: 50%;
   -webkit-transform: scale(0.9);
           transform: scale(0.9);
-  background-color: #cc0000;
+  background-color: #00838F;
   color: #ffffff;
 }
 
@@ -8301,7 +8301,7 @@ input[type=range]:focus::-ms-fill-upper {
 .picker__close, .picker__today {
   font-size: 1.1rem;
   padding: 0 1rem;
-  color: #cc0000;
+  color: #00838F;
 }
 
 .picker__nav--prev:before,
@@ -8478,14 +8478,8 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 .gradien_ungu{
     text-align: center;
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cc0000+0,cf0404+100;Red+3D */
-background: #cc0000; /* Old browsers */
-background: -moz-linear-gradient(top, #cc0000 0%, #cf0404 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #cc0000 0%,#cf0404 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #cc0000 0%,#cf0404 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */
-
-
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#00838F+0,cf0404+100;Red+3D */
+background: #00838F; /* Old browsers */
 }
 .welcome {
     width: 100%;
@@ -8521,11 +8515,11 @@ body{}
 }
 
 ::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px #cc0000;
+  -webkit-box-shadow: inset 0 0 6px #00838F;
 }
 
 ::-webkit-scrollbar-thumb {
-  -webkit-box-shadow: inset 0 0 6px #cc0000;
+  -webkit-box-shadow: inset 0 0 6px #00838F;
 }
 
 .top-bar,
@@ -8644,7 +8638,7 @@ body{}
     background: #fff;
     padding: 10px;
     border-radius: 2px;
-    box-shadow: 0 1px 2px #cc0000
+    box-shadow: 0 1px 2px #00838F
 }
 
 .messages p {
