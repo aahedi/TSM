@@ -18,7 +18,7 @@
 <allow-intent href="market:*"/>
 <allow-navigation href="*"/>
 <access origin="*"/>
-<preference name="phonegap-version" value="cli-8.1.1" />
+<preference name="phonegap-version" value="cli-8.0.0" />
 <preference name="xwalkMultipleApk" value="false" />
 <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 <plugin name="cordova-android-support-gradle-release"/>
