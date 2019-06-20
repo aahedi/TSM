@@ -18,12 +18,12 @@
 <allow-intent href="market:*"/>
 <allow-navigation href="*"/>
 <access origin="*"/>
-<preference name="phonegap-version" value="cli-7.1.0" />
+<preference name="phonegap-version" value="cli-8.1.1" />
 <preference name="xwalkMultipleApk" value="false" />
 <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 <plugin name="cordova-android-support-gradle-release"/>
 <plugin name="cordova-plugin-enable-multidex"/>
-<plugin name="cordova-plugin-android-permissions"/>
+<!--<plugin name="cordova-plugin-android-permissions"/>-->
 <plugin name="cordova-plugin-device" spec="1.1.2"/>
 <!--<plugin name="cordova-plugin-compat" spec="1.2.0"/>-->
 <plugin name="cordova-plugin-file" spec="6.0.1"/>
